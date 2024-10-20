@@ -1,8 +1,5 @@
 # Hi there 👋
-## I'm Hue. I am an Azure Administrator.
-- 🔭 I’m currently working on 100 Days of Cloud...
-- 🌱 I’m currently learning AZ-305 Designing Microsoft Azure Infrastructure Solutions...
-- 🤔 I’m looking for help getting into an Azure Cloud Administration opportunity...
+## I'm Hue. I am an Automation Engineer.
 <!--
 **huetruong/huetruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
